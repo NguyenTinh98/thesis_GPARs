@@ -12,4 +12,4 @@
 ## Group's Gmail
 - Gmail: thesis0820@gmail.com
 - Password: n*\*n*\*9*
-- Account Overleaf: th 
+- Account Overleaf: the same as gmail.
