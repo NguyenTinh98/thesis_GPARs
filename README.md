@@ -9,3 +9,7 @@
 - http://simpledatamining.blogspot.com/2015/03/graph-pattern-mining-gspan-introduction.html
 - https://hpi.de/mueller/lehre/aktuelle-vorlesung/ws-1617/graph-mining.html?fbclid=IwAR3ikZEdPa5jKAEn1Iubca3b0stOx-0TrYy2gkIdqzEL4uwVNuEKfmUYPe8
 - https://github.com/ehab-abdelhamid/GraMi
+## Group's Gmail
+- Gmail: thesis0820@gmail.com
+- Password: n*\*n*\*9*
+- Account Overleaf: th 
