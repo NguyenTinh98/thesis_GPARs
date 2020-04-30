@@ -23,4 +23,4 @@
  ## Một vài vấn đề khác:
  - Hardware để thực hiện trên dữ liệu lớn.
  - Compare kết quả với các thuật toán khác: mã nguồn, hardware, tiêu chí ??
- - Kiểm nghiệm độ chính xác, thời gian chạy của thuật toán t
+ - Kiểm nghiệm độ chính xác, thời gian chạy của thuật toán toán tự cài ??
