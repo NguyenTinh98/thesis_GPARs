@@ -5,10 +5,8 @@
 - **Class Node:**
 	+ Thuộc tính:
 		+ ID
-    		+ Danh sách các node có liên kết: Kiểu list.
-		+ Danh sách các thuộc tính: Kiểu List - kích thước được xác định trước (là số lượng thuộc tính cần thiết - thuộc tính nào không có dữ liệu, được set là null).
-		--- Danh sách các thuộc tính: Để trong class node hay đưa ra ngoài class Graph ???
-
+		+ Danh sách các node có liên kết: Kiểu list.
+		+ Danh sách các thuộc tính: Kiểu List - kích thước được xác định trước (là số lượng thuộc tính cần thiết - thuộc tính nào không có dữ liệu, được set là null). - Để trong class node hay đưa ra ngoài class Graph ???
      
  ## Một vài vấn đề khác:
  - Hardware để thực hiện trên dữ liệu lớn.
